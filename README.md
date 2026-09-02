@@ -9,3 +9,6 @@ this repo is abt activity 3.
 
 #learnign python
 I am learning python for more than 3 years
+
+# new skill
+i am really intrested in learning web dev and ios dev
