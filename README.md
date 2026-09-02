@@ -15,3 +15,6 @@ i am really intrested in learning web dev and ios dev
 
 # goal 
 crack a good lpa job
+
+### Projects
+i have build many projects which inlcudes virtual cursor , smart gloves ,logit app. 
